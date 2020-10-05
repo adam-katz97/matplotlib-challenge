@@ -1,1 +1,2 @@
 # matplotlib-challenge
+This exercise is mainly meant to display my abilities to use pandas and matplotlib. In terms of the actual data I know that all drug regimens had roughly the same number of mice and that Capomulin	was by far the most reliable drug that resulted in the smallest tumor volumes due to the mean tumor volume being much smaller on mice who were tested with it when compared to mice tested with other drugs.
